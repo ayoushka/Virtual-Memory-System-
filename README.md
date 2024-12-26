@@ -27,7 +27,7 @@ git clone https://github.com/ayoushka/Virtual-Memory-System-.git
 cd Virtual-Memory-System-
 
 ##Usage
-bash
+```bash
 python BOsQ2-2.py
 
 ##Example
