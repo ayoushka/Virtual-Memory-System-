@@ -23,7 +23,7 @@ Torun this project, ensure you have Python installedon your system. You can down
 
 Clone this repository:
 ```bash
-git clone
+git clone https://github.com/ayoushka/Virtual-Memory-System-.git
 cd Virtual-Memory-System-
 
 ##Usage
